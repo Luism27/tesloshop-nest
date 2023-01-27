@@ -13,13 +13,15 @@
 docker-compose up -d
 ```
 
-6. Ejecutar Seed
+6. Levantar modo de desarrollo
+```
+pnpm start:dev
+```
+
+7. Ejecutar Seed
 ```
 http://localhost:300/api/seed
 ```
 
-7. Levantar modo de desarrollo
-```
-pnpm start:dev
-```
+
 
